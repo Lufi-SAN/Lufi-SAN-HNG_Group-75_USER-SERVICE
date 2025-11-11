@@ -1,0 +1,12 @@
+{
+  "name": "lufi-san-hng_group-75_user-service",
+  "version": "1.0.0",
+  "description": "user-service repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
